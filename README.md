@@ -1,2 +1,2 @@
-# DataQuanticaScalaBigData
-Repositório destinado aos laboratórios práticos Programação em Scala com foco em Big Data Programação em Scala com foco em Big Data da Plataforma https://ead.dataquantica.com.br/
+# DataCampIntroductionToScala
+Repositório destinado aos laboratórios práticos de Programação em Scala referentes aos conteúdos da Data Engineer with Python track - https://www.datacamp.com/tracks/data-engineer-with-python?version=3 - da Plataforma - https://learn.datacamp.com/
